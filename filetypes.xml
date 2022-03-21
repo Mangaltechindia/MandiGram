@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="pune function_3sEDtkk" type="Image" />
       <mapping pattern="indore-function" type="Image" />
+      <mapping ext="php" type="PHP" />
       <mapping ext="eot" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
