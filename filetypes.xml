@@ -6,6 +6,7 @@
       <mapping pattern="indore-function" type="Image" />
       <mapping ext="php" type="PHP" />
       <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
