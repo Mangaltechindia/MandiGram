@@ -5,6 +5,7 @@
       <mapping pattern="pune function_3sEDtkk" type="Image" />
       <mapping pattern="indore-function" type="Image" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
     </extensionMap>
