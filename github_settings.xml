@@ -3,6 +3,9 @@
     <account id="d13647bf-4496-4955-a188-3b3ee56804a7" name="Vchourey">
       <server host="github.com" />
     </account>
+    <account id="1b12bc38-ee2c-4043-8274-a5f91146aade" name="Mangaltechindia">
+      <server host="github.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="CONNECTION_TIMEOUT" value="10000" />
